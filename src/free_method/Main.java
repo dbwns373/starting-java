@@ -20,12 +20,7 @@ public class Main {
 		
 		bw.write("testing github upload");
 		bw.write("nothing?");
-		
-		int w = Integer.parseInt(br.readLine());
-		
-		int[] num = new int[w];
-		
-		fact();
+		bw.write("oh?");
 		
 		br.close();
 		bw.flush();
